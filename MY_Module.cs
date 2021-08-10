@@ -17,6 +17,10 @@ namespace test
         {
             return x * y;
         }
+        private double div(double x, double y)
+        {
+            return x /y;
+        }
     }
 
     
