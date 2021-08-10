@@ -13,7 +13,7 @@ namespace test
         {
             return x - y;
         }
-        private double mul(double x, double y)
+        private double mul(double x, double y)  // ¡÷ºÆ
         {
             return x * y;
         }
